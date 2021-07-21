@@ -1,0 +1,7 @@
+{
+  "name": "Dromous",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
